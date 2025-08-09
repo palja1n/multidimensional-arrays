@@ -12,8 +12,11 @@ Suitable for storing grid-like data (e.g., matrices, images).
 # Programs
 # 1. 2D Array Input and Display
 This program takes values for a matrix and prints them back in matrix format using nested loops
+
 Loops Used:
+
 Two nested loops — one handles row traversal while the other processes each column
+
 Total: 2 nested loops (1 for taking input, 1 for printing output)
 
 # 2. Matrix Sum
