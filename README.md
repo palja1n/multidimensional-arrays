@@ -1,4 +1,4 @@
-# Matrix (2D Arrays) and it's Operations in C++
+# Matrix (2D Arrays) Operations in C++
 # Aim: To study and implement operations on 2D arrays (matrices) in C++.
 
 # Theory
