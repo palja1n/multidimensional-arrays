@@ -48,7 +48,7 @@ else {
 }
 
 /*
-Output:
+Output 1:
 Enter the number of rows of the matrix: 3
 Enter the number of columns of the matrix: 3
 Enter the elements of the matrix:
@@ -61,4 +61,9 @@ Transpose of the Matrix:
 1 4 7 
 2 5 8 
 3 6 9
+
+Output 2:
+Enter the number of rows of the matrix: 3
+Enter the number of columns of the matrix: 4
+The matrices are not transpose-compatible.
   */
