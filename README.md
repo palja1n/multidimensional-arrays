@@ -1,5 +1,12 @@
 # Matrix (2D Arrays) Operations in C++
+
+Name: Pal Jain  
+Class: ENTC A3  
+PRN: 24070123067  
+Title: Matrix (2D Arrays) Operations in C++
+
 # Aim: To study and implement operations on 2D arrays (matrices) in C++.
+
 
 # Theory
 A two-dimensional array (matrix) in C++ is an array of arrays used to represent data in a tabular format. But, stored in continuous memory location. It enables row-column-based access to elements and is commonly used for performing mathematical operations like addition, multiplication, and transpose.
